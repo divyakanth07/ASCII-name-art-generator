@@ -26,7 +26,7 @@ pip3 install pyfiglet
 2. **Run the script** in your terminal:
 
    ```bash
-   python name_gen.py
+   python3 name_gen.py
    ```
 
 3. The program will:
