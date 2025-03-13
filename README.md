@@ -16,7 +16,7 @@ A Python-based tool that generates random ASCII art of your name using various f
 You can install `pyfiglet` using pip:
 
 ```bash
-pip install pyfiglet
+pip3 install pyfiglet
 ```
 
 ## How to Use
